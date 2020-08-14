@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/massanda/WebsiteV2.git/static/css/main.7543c287.chunk.css",
-    "main.js": "/massanda/WebsiteV2.git/static/js/main.a0948531.chunk.js",
-    "main.js.map": "/massanda/WebsiteV2.git/static/js/main.a0948531.chunk.js.map",
-    "runtime-main.js": "/massanda/WebsiteV2.git/static/js/runtime-main.8a8d0d72.js",
-    "runtime-main.js.map": "/massanda/WebsiteV2.git/static/js/runtime-main.8a8d0d72.js.map",
-    "static/js/2.facd2aea.chunk.js": "/massanda/WebsiteV2.git/static/js/2.facd2aea.chunk.js",
-    "static/js/2.facd2aea.chunk.js.map": "/massanda/WebsiteV2.git/static/js/2.facd2aea.chunk.js.map",
-    "index.html": "/massanda/WebsiteV2.git/index.html",
-    "precache-manifest.15049ffd513592a66bc7cee62086c111.js": "/massanda/WebsiteV2.git/precache-manifest.15049ffd513592a66bc7cee62086c111.js",
-    "service-worker.js": "/massanda/WebsiteV2.git/service-worker.js",
-    "static/css/main.7543c287.chunk.css.map": "/massanda/WebsiteV2.git/static/css/main.7543c287.chunk.css.map",
-    "static/js/2.facd2aea.chunk.js.LICENSE.txt": "/massanda/WebsiteV2.git/static/js/2.facd2aea.chunk.js.LICENSE.txt",
-    "static/media/ArunMassand_Resume.pdf": "/massanda/WebsiteV2.git/static/media/ArunMassand_Resume.eab75aa3.pdf",
-    "static/media/arun-logo-background.png": "/massanda/WebsiteV2.git/static/media/arun-logo-background.c3ca7de6.png",
-    "static/media/arun.jpg": "/massanda/WebsiteV2.git/static/media/arun.2f2d345e.jpg"
+    "main.css": "/WebsiteV2/static/css/main.7543c287.chunk.css",
+    "main.js": "/WebsiteV2/static/js/main.f9bf324d.chunk.js",
+    "main.js.map": "/WebsiteV2/static/js/main.f9bf324d.chunk.js.map",
+    "runtime-main.js": "/WebsiteV2/static/js/runtime-main.3c9da16a.js",
+    "runtime-main.js.map": "/WebsiteV2/static/js/runtime-main.3c9da16a.js.map",
+    "static/js/2.a0e23e8b.chunk.js": "/WebsiteV2/static/js/2.a0e23e8b.chunk.js",
+    "static/js/2.a0e23e8b.chunk.js.map": "/WebsiteV2/static/js/2.a0e23e8b.chunk.js.map",
+    "index.html": "/WebsiteV2/index.html",
+    "precache-manifest.b0ef52c741433c048c49b829d3b8c4e9.js": "/WebsiteV2/precache-manifest.b0ef52c741433c048c49b829d3b8c4e9.js",
+    "service-worker.js": "/WebsiteV2/service-worker.js",
+    "static/css/main.7543c287.chunk.css.map": "/WebsiteV2/static/css/main.7543c287.chunk.css.map",
+    "static/js/2.a0e23e8b.chunk.js.LICENSE.txt": "/WebsiteV2/static/js/2.a0e23e8b.chunk.js.LICENSE.txt",
+    "static/media/ArunMassand_Resume.pdf": "/WebsiteV2/static/media/ArunMassand_Resume.eab75aa3.pdf",
+    "static/media/arun-logo-background.png": "/WebsiteV2/static/media/arun-logo-background.c3ca7de6.png",
+    "static/media/arun.jpg": "/WebsiteV2/static/media/arun.2f2d345e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8a8d0d72.js",
-    "static/js/2.facd2aea.chunk.js",
+    "static/js/runtime-main.3c9da16a.js",
+    "static/js/2.a0e23e8b.chunk.js",
     "static/css/main.7543c287.chunk.css",
-    "static/js/main.a0948531.chunk.js"
+    "static/js/main.f9bf324d.chunk.js"
   ]
 }

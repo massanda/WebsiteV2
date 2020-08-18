@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/WebsiteV2/static/css/main.ea3c78bf.chunk.css",
-    "main.js": "/WebsiteV2/static/js/main.3a4d4640.chunk.js",
-    "main.js.map": "/WebsiteV2/static/js/main.3a4d4640.chunk.js.map",
+    "main.css": "/WebsiteV2/static/css/main.6c87d227.chunk.css",
+    "main.js": "/WebsiteV2/static/js/main.2eb64412.chunk.js",
+    "main.js.map": "/WebsiteV2/static/js/main.2eb64412.chunk.js.map",
     "runtime-main.js": "/WebsiteV2/static/js/runtime-main.3c9da16a.js",
     "runtime-main.js.map": "/WebsiteV2/static/js/runtime-main.3c9da16a.js.map",
     "static/js/2.cd7960f6.chunk.js": "/WebsiteV2/static/js/2.cd7960f6.chunk.js",
     "static/js/2.cd7960f6.chunk.js.map": "/WebsiteV2/static/js/2.cd7960f6.chunk.js.map",
     "index.html": "/WebsiteV2/index.html",
-    "precache-manifest.6ff1aa44a564bde6ec07f1961fd9b027.js": "/WebsiteV2/precache-manifest.6ff1aa44a564bde6ec07f1961fd9b027.js",
+    "precache-manifest.f3163d03160da9b32f66660e7dc0e84c.js": "/WebsiteV2/precache-manifest.f3163d03160da9b32f66660e7dc0e84c.js",
     "service-worker.js": "/WebsiteV2/service-worker.js",
-    "static/css/main.ea3c78bf.chunk.css.map": "/WebsiteV2/static/css/main.ea3c78bf.chunk.css.map",
+    "static/css/main.6c87d227.chunk.css.map": "/WebsiteV2/static/css/main.6c87d227.chunk.css.map",
     "static/js/2.cd7960f6.chunk.js.LICENSE.txt": "/WebsiteV2/static/js/2.cd7960f6.chunk.js.LICENSE.txt",
     "static/media/ArunMassand_Resume.pdf": "/WebsiteV2/static/media/ArunMassand_Resume.eab75aa3.pdf",
     "static/media/arun-logo-background.png": "/WebsiteV2/static/media/arun-logo-background.c3ca7de6.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.3c9da16a.js",
     "static/js/2.cd7960f6.chunk.js",
-    "static/css/main.ea3c78bf.chunk.css",
-    "static/js/main.3a4d4640.chunk.js"
+    "static/css/main.6c87d227.chunk.css",
+    "static/js/main.2eb64412.chunk.js"
   ]
 }
